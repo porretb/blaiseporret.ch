@@ -59,3 +59,10 @@ section h1 {
   font-weight: 700;
   text-align: center;
 }
+#presentation ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  background-color: #ec00ad;
+  height: 150px;
+}
