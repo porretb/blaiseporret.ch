@@ -1,0 +1,35 @@
+*{
+    maring:0px;
+    padding:0px;
+    list-style: none;
+    text-decoration: none;
+}
+nav{
+    border:1px solid;
+}
+nav ul{
+    display: flex;
+    vertical-align: middle;
+
+}
+nav li{
+    padding-left: 30px;
+    border:1px solid;
+    margin-right: 5px;
+}
+nav .h1{
+    font-size: 2em;
+}
+#top ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#top ul li{
+    width:30%;
+    border:1px solid;
+    padding:10px;
+}
+.center{
+    text-align: center;
+}
